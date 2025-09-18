@@ -1,4 +1,4 @@
-# 地图瓦片下载器
+# 地图瓦片下载器（页面预览在最后）
 
  Vue.js + OpenLayers 构建的 Web 应用程序，旨在允许用户选择中国的行政区域，在地图上绘制矩形区域，并将指定区域内的地图瓦片下载为 ZIP 文件。并支持使用 GeoJSON 数据加载行政边界。
 
@@ -62,4 +62,14 @@
 ├── package.json             # 项目依赖和脚本
 └── README.md                # 本文件
 ```
+
+## 页面功能
+#### 框选范围
+![iScreen Shoter - Google Chrome - 250918164446](https://github.com/user-attachments/assets/3f58b3f8-f7e6-4669-82a7-a2483d410604)
+#### 展示信息，选择下载的缩放等级
+![iScreen Shoter - Google Chrome - 250918164651](https://github.com/user-attachments/assets/3e83172f-f6fb-4ce8-ab27-b2fe9396eafe)
+#### 省/市 行政区域预览
+![iScreen Shoter - Google Chrome - 250918164615](https://github.com/user-attachments/assets/0f9feae6-063b-4e83-864d-44172f21c8d6)
+#### 手动输入经纬度框选范围
+![iScreen Shoter - Google Chrome - 250918164514](https://github.com/user-attachments/assets/3c47ae33-515b-4faf-bdc2-83633c836301)
 
